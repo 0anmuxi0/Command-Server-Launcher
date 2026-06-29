@@ -35,7 +35,7 @@
 
 从 [Releases](https://github.com/0anmuxi0/Command-Prompt-Minecraft-Launcher/releases) 下载 `Command Prompt Minecraft Launcher.exe`，双击运行。
 
-### 从源码运行
+### 从源码解释d运行
 
 ```bash
 # 克隆仓库
