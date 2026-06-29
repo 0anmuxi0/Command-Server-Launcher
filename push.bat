@@ -12,6 +12,7 @@ if errorlevel 1 (
     pause
     exit /b
 )
+git pull --rebase
 git push
 if errorlevel 1 (
     echo push failed, please check your network connection or authentication.
